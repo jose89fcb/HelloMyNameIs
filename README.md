@@ -1,6 +1,6 @@
 # HelloMyNameIs
 
-Necesitaras descargar:
+Necesitaras descargar:(FrameWork 4.7.2)
 <a href="https://dotnet.microsoft.com/download/dotnet-framework/net472">https://dotnet.microsoft.com/download/dotnet-framework/net472</a>
 
 <b>Imagenes:</b>
